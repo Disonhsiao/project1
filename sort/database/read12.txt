@@ -1,0 +1,5 @@
+D
+banana light-yellow 2.8 952
+apple pink1 5656 spring 
+banana dark-yellow 656.4 64.3
+apple pink2 632 fall
